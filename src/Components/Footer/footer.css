@@ -1,0 +1,9 @@
+.footer {
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
+
+.footerheading {
+    font-size: 2rem;
+}

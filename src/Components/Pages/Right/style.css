@@ -1,0 +1,63 @@
+.rightcontent {
+    flex: 1.3;
+    margin-left: 3rem;
+}
+
+.about{
+    background-color: rgb(233, 228, 228);
+    padding: 1rem;
+    text-align: justify;
+}
+
+.about h5{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 1.4rem;
+    margin: 0px;
+}
+
+.about p{
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+.head{
+    font-size: 1.4rem;
+    margin-bottom: 1rem;
+}
+
+.archives a{
+    color: rgb(120, 173, 177);
+    margin-bottom: 0.5rem;
+    font-size: 1.1rem;
+}
+
+
+.socialheading{
+    font-size: 1.4rem;
+    margin-bottom: 1rem;
+}
+
+.github{
+    display: flex;
+    align-items: center;
+}
+
+.facebook{
+    display: flex;
+    align-items: center;
+}
+
+.twitter{
+    display: flex;
+    align-items: center;
+}
+
+
+.icon{
+    margin-right: 1rem;
+}
+
+.social div a{
+    color: rgb(120, 173, 177);
+    margin-bottom: 0.5rem;
+    font-size: 1.1rem;
+}

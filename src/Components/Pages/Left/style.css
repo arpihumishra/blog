@@ -1,0 +1,12 @@
+.blogcard{
+    /* background-color: red; */
+    flex: 3;
+}
+
+.blogcard .heading{
+    /* color: grey; */
+    padding: 0px;
+    margin: 0px;
+    font-size: 1.3rem;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}

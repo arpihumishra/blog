@@ -1,0 +1,13 @@
+.list{
+    overflow: hidden;
+    display: flex;
+    justify-content: space-evenly;
+    text-decoration: underline;
+}
+
+.list button{
+    border: none;
+    background-color: white;
+    cursor: pointer;
+    font-size: 1rem;
+}

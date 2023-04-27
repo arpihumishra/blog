@@ -1,0 +1,44 @@
+.card {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 16rem;
+    width: 36rem;
+    border-radius: 0.5rem;
+    margin-top: 2rem;
+    box-shadow: 1px 1px 3px grey, 1px 1px 5px grey;
+}
+
+.card:hover {
+    filter:opacity(0.8);
+}
+
+.text {
+    flex: 2;
+    margin-left: 1rem;
+    /* color: white; */
+}
+
+.Heading {
+    font-size: 1.5rem;
+}
+
+.date {
+    margin-top: -1rem;
+    color: grey;
+}
+
+
+
+.image {
+    width: 100%;
+    align-items: center;
+    flex: 1;
+    height: 100%;
+}
+
+.image img {
+    max-width: 100%;
+    max-height: 100%;
+    min-height: 16rem;
+}
